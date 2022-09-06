@@ -1,0 +1,41 @@
+body{
+
+    background-size: cover;
+
+}
+
+.header{
+
+    width: 100%;
+
+    font-size: 23px;
+
+}
+
+#Note{
+
+    font-size: 18px;
+
+    color: black;
+
+}
+
+.SongName{
+
+    width: 140px;
+
+    font-size: 19px;
+
+}
+
+canvas{
+
+    background-color: white;
+
+    border: 5px solid brown;
+
+    border-radius: 20px;
+
+    box-shadow: 5px, 5px, 5px #73cfd8;
+
+}
